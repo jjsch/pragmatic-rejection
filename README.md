@@ -13,6 +13,9 @@ For every datapoint, the results of the crowdsourcing experiment are given, wher
 - B probably meant to disagree with A’s statement.
 
 [1] Julian J. Schlöder and Raquel Fernández (2015). Pragmatic Rejection, Proceedings of the 11th International Conference on Computational Semantics (IWCS 2015).
+
 [2] Burnard, L. (2000). Reference Guide for the British National Corpus (World Edition). Oxford University Computing Services.
+
 [3] Carletta, J. (2007). Unleashing the killer corpus: experiences in creating the multi-everything AMI Meeting Corpus. Language Resources and Evaluation 41(2), 181-190.
+
 [4] Godfrey, J. J., E. C. Holliman, and J. McDaniel (1992). SWITCHBOARD: Telephone Speech Corpus for Research and Development. In Proceedings of ICASSP'92.
