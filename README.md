@@ -1,7 +1,11 @@
 # pragmatic-rejection
 A dataset of crowdsourced judgements on whether utterances considered "pragmatic rejections" have acceptance or rejection force.
 
+## Content
+
 The data contains 60 examples of pragmatic rejections (as described in [1]) extracted manually from the BNC, AMI and Switchboard corpora [2,3,4], as well as 30 test items used in the crowdsourcing study.
+
+## Annotation
 
 The data is categorised according to the annotation scheme of [1].
 
@@ -12,7 +16,11 @@ For every datapoint, the results of the crowdsourcing experiment are given, wher
 - B definitely meant to disagree with A’s statement.
 - B probably meant to disagree with A’s statement.
 
+## Use
+
 The data points at a tension between linguistic theory and naive interpretation in the crowdsourcing experiment. One point of interest is that the data is text-only, but that prosody might be very significant in these cases. This has been taken up in [5].
+
+## References
 
 [1] Julian J. Schlöder and Raquel Fernández (2015). Pragmatic Rejection, Proceedings of the 11th International Conference on Computational Semantics (IWCS 2015).
 
